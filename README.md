@@ -1,5 +1,5 @@
 # Line
-Simple Android game created as a mobile development project at Edenz Colleges, Auckland. The link to the play store publish has been given below.
+Simple Android game created as a mobile development project at Edenz Colleges, Auckland. The link to the live game has been given below.
 
 
 <a href="https://play.google.com/store/apps/details?id=edenz.game">
